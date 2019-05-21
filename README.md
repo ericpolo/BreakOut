@@ -14,11 +14,11 @@ Welcome to the Game of Breakout. This game is designed and implemented by Mingku
 
 2. This game has 4 different modes that you can select:
   1) Easy mode
-     You can enter easy mode by press <e> at the welcome page. In this mode, pad will be double-sized.
+     You can enter easy mode by press e at the welcome page. In this mode, pad will be double-sized.
   2) Normal mode
-     You can enter normal mode by press <n> at the welcome page. In this mode, pad will be set to normal size.
+     You can enter normal mode by press n at the welcome page. In this mode, pad will be set to normal size.
   3) Hard mode
-     This is the mode to test you skill! You can enter hard mode by press <h> at the Welcome Page. In this mode, pad will be HALF-SIZED!
+     This is the mode to test you skill! You can enter hard mode by press h at the Welcome Page. In this mode, pad will be HALF-SIZED!
   4) TA mode 
      To be friendly to TA who may be a "terrible gamer" as described in assignment, I specially designed TA mode for test purpose. In this mode, pad will have extremely large size and you don't need to worry about losing game. Just enjoy it!
 
