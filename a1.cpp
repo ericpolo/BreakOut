@@ -117,12 +117,6 @@ int bounce(Ball* ball, Rec* rec){
   int rwidth = rec->width;
   int rheight = rec->height;
 
-  //if (bx > rx && bx < rx+rwidth && by > ry && by < ry+rheight){
-    // ball is inside block
-    //ball->dirx = -ball->dirx;
-   // return 1;
-  //}
-
   // bounce upper panel
   if (withInRange(by+radius,ry) && bx + radius >= rx && bx - radius <= rx + rwidth ){
     ball->diry = -(ball->diry);
